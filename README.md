@@ -1,4 +1,4 @@
-# Project Title
+# Pomodoro App
 
 A simple pomodoro app for timing work or study input made with python tkinter.
 
